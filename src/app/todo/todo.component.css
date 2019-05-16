@@ -1,0 +1,45 @@
+
+
+body {
+    margin: 0;
+    background-color: #ff1493;
+    linear-gradient: (to right, #f857a6, #ff5858);
+    height: 100vh;
+}
+.mylist {
+   background-color: #eee;
+   display: flex;
+   flex-direction: column;
+   text-align: center;
+   padding: 25px;
+   width: 50vw;
+   height: fit-content; 
+}
+h1 {
+    margin: 0;
+    margin-bottom: 10px;
+    font-weight: 300;
+}
+input {
+    margin-button: 10px;
+    font-size: 26px;
+}
+p {
+    font-size: 12px;
+    font-color: #bbb;
+}
+button {
+    margin-button: 10px;
+    font-size: 26px;
+    color: #ff69b4;
+     
+}
+li {
+    font-size: 12px;
+
+}
+span {
+    display: flex;
+    transform-style: initial;
+    font-size: 10px
+}
